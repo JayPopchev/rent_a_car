@@ -11,7 +11,7 @@ RentACar is a simple car rental system that allows users to view available cars,
 
 # Future improvements
 
-- While the current version of the RentACar system is simple and functional, there are several potential improvements and features that could enhance the system:
+While the current version of the RentACar system is simple and functional, there are several potential improvements and features that could enhance the system:
 - User Authentication: Add user login and registration functionality so that users can have personalized accounts for tracking rented cars.
 - Car Categories: Implement different car categories (e.g., Economy, Luxury, SUV) with different rental prices and features.
 - Reservation System: Allow users to reserve cars for a specific date and time before actually renting.
